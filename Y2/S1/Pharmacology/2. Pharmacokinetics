@@ -1,0 +1,90 @@
+---
+bookCollapseSection: false
+weight: 1
+---
+
+## **Overview**
+---
+
+Pharmokinetics is the effect of the body on drugs (i.e: what the body does to the drug).
+
+<mark>Pharmacokinetics is the study of drug absorption, distribution, metabolism, and excretion (ADME).</mark>
+
+* Goal is to reach a desired beneficial effect with minimal adverse effects possible.
+    * clinician must determine the dose that most closely achieves this
+* There is a relationship between the drug's effect and its concentration at the active site
+
+General rule: any adverse effects that can be prevented should be prevented.
+
+## **Permeation**
+---
+
+Drug permeation proceeds by four primary mechanisms
+
+* Lipid Diffusion
+* Aqueous Diffusion
+
+Passive diffusion in an aqueous or lipid medium is common, but there are also active processes involved in the movement of many drugs, especially
+those whose molecules are too large to diffuse readily.
+
+### **Lipid Diffusion**
+
+Most important mechanism of permeation. It is a passive process.
+
+* drug must cross phospholipid membranes in order to reach active site
+* the more lipid soluble it is, the easier it is to pass through membranes
+* driven by concentration gradient (passive)
+
+
+|![](http://www.biologymad.com/cells/cells.6.gif)|
+|:--:|
+|*lipid diffusion*|
+
+
+|![](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/grad_c.gif)|
+|:--:|
+|*movement down a concenration gradient*|
+
+* prof mentioned that diffusing drug molecules in the body are continously washed away by circulating blood.
+    * thus, there is always a concentration gradient and never any equilibrium
+
+#### **Fick's Law of Diffusion**
+The passive flux (movement through a membrane) of molecules down a concentration gradient is given by Fick's Law:
+
+    Flux (molecules/unit time) =
+    C1 - C2 * [(area * permeability coefficient) / thickness]
+
+Where:
+
+* C1 is the higher concentration
+* C2 is the lower concentration
+* area is the area across which diffusion occurs
+* permeability coefficient is a measure of the mobility of drug molecules in the medium of the diffusion path (constant)
+* thickness is the thickness or length of diffusion path
+    * thicker membrane = lower flux
+    * thinner membrane = higher flux
+
+#### **Water and Lipid Solubility**
+* Lipid diffusion depends on high lipid solubility (ability to cross bilayer membrane)
+* Water soluble substances (i.e: ionized, polar, charged) are not lipid-soluble
+    * they attract water molecules around them (water shell around them), making them unable to cross the hydrophobic part of the bilayer
+* Thus, ionization of drugs (becoming water soluble) may reduce their ability to permeate membranes
+
+<!-- -->
+* Ionization of the drug is determined by the drug's pKa and the medium's pH
+    * Most drugs are either weak acids or weak bases
+    * Weak acid in an acidic medium (or base in basic medium) will not be ionized (can cross bilayer)
+    * However, acid in basic medium or vice versa leads to ionization (cannot cross bilayer, no absorption)
+
+> *remember that pKa is the pH where a drug is 50% ionized (lipid-insoluble, non-absorbable), and 50% non-ionized (lipid-soluble, absorbable)*
+
+If the pKa of the drug and the pH of the medium are known, the fraction of molecules in the ionized state can be predicted by means of the Henderson-Hasselbalch equation:
+
+
+### **Aqueous Diffusion**
+
+Passive movement of molecules through the watery intracellular and extracellular spaces.
+
+* via capillary membranes with small water-filled pores
+* Occurs within larger aqueous compartments of the body (Interstitial space, cytosol, etc).
+* driven by concentration gradient
